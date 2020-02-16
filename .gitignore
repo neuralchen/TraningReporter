@@ -1,0 +1,10 @@
+*.pyc
+.vscode/
+logs/
+*.csv
+*.pdf
+*.jpg
+*.JPG
+*.png
+*.PNG
+*.txt
